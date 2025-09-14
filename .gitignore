@@ -2,5 +2,5 @@
 db.sqlite3
 
 # Environment variables file
-.env
+venv
 
